@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1. Dominos Pizza
 2. Pani Puri
 3. Burger - Burger Kings
+=======
+1. Lord of the Rings
+2. Harry Potter
+3. K.G.F Chapter 2
+>>>>>>> Movies
